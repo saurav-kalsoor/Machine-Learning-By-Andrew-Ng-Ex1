@@ -1,3 +1,3 @@
 # Machine-Learning-Ex1-By-Andrew-Ng-
 
-Solutions to Machine Learning Course by Andrew Ng at Coursera Ex1
+This Repository contains all the solutions of the Course "Machine Learning By Andrew Ng" on COURSERA
